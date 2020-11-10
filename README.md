@@ -1,9 +1,10 @@
 DEPLOY to heroku by clicking following button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deon378/captionbot)
 
-<B>@TR_BOTS</B>
-<B>@legendoftelegram</B>
+<B>@qMp_FiLmS</B>
+<B>@TamilBlasterz</B>
+<B>@COMRADE_ACHAYAN</B>
 
 
 
