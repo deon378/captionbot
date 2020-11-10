@@ -11,4 +11,4 @@ class Translation(object):
 
 <b>➠Cʜᴀɴɴᴇʟ : @TamilBlasterz</b>
 
-<b> 🎯 ʝσιи ѕнαяє ѕυρρσят 🎯</b>
+<b>🎯 ʝσιи ѕнαяє ѕυρρσят 🎯</b>
