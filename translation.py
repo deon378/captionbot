@@ -7,8 +7,8 @@ class Translation(object):
     CH_LIST = """<b>empty</b>"""  
     CAP_TION = """
 
-<b>➠Cʜᴀɴɴᴇʟ : @qMp_FiLmS</b>
+*➠Cʜᴀɴɴᴇʟ : @qMp_FiLmS*
 
-<b>➠Cʜᴀɴɴᴇʟ : @TamilBlasterz</b>
+*➠Cʜᴀɴɴᴇʟ : @TamilBlasterz*
 
-<b>🎯 ʝσιи ѕнαяє ѕυρρσят 🎯</b>"""
+*🎯 ʝσιи ѕнαяє ѕυρρσят 🎯*"""
